@@ -3,3 +3,6 @@
   https://quotes.toscrape.com
 
 В файлі main.py перший трай парсить дані з сайту а 2-й записує в БД з 8-го завдання
+
+При запуску main.py повинно створити файли
+  authors.json і quotes.json
